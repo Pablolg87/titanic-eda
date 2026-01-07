@@ -1,4 +1,5 @@
-# eda-titanic-example
+## 📊 Analysis notebook
+- [Titanic EDA Notebook](titanic_eda.ipynb)
 
 # Data Analysis – Example Project
 
